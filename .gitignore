@@ -1,0 +1,7 @@
+# Dependencies are installed per DSH profile; these plugins have none of their own.
+node_modules/
+# Local verification artifacts.
+.verify/
+*.log
+.DS_Store
+Thumbs.db
